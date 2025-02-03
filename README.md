@@ -1,1 +1,3 @@
 # nukebot-template
+
+discordのnukebotのテンプレートです。
